@@ -4,6 +4,6 @@ if (confirm("estas contento con la clase")){
 	alert("me caes bien")
 } else {
 	// lo que se hace sino se cumple la funcion 
-	alert("mejor quedese durmiendo en la casa");
+	alert("clase mas divertida");
 }
 
